@@ -10,6 +10,6 @@ data_charts.py 使用pyecharts作图
 lagou_anv.csv 数据
 lagou_anv_detail.csv 职位描述
 
-html 图标html文件
+html 画出的图的html文件
 
 txt 文字文件
